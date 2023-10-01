@@ -1,0 +1,22 @@
+{
+	"icons":[
+		{
+		"name":"AliPay_zfb.png",
+		"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/alipay.png"
+		},{
+			"name":"KuWo_kwyy.png",
+			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/kuwo.png"
+		},{
+			"name":"KuGou_kwyy.png",
+			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/kugou.png"
+		},{
+			"name":"QiShui_qsyy.png",
+			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/qishui.png"
+		},{
+			"name":"ICQ_",
+			"url":"https://raw.githubusercontent.com/jokefrelon/quanx_policy_icon/main/icons/icq.png"
+		}
+	],
+	"name":"自用图标",!
+	"description":"实验性!"
+}
